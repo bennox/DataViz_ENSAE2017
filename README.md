@@ -1,2 +1,5 @@
-# presseetcampagneelectorale.github.io
-Projet de DataVisualisation sur le traitement médiatique de la campagne électorale présidentielle 2017
+# Data visualization project
+
+Project that display the media coverage of several french papers of the 2017 presidential election.
+
+<a href="http://www.presseetcampagneelectorale.github.io"> Website
